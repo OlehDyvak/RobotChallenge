@@ -1,0 +1,5 @@
+E:\Study\5_semester\Software Construction\RobotChallenge\Oleh.Dyvak.RobotChallenge\Oleh.Dyvak.RobotChallenge\bin\Debug\Oleh.Dyvak.RobotChallenge.dll
+E:\Study\5_semester\Software Construction\RobotChallenge\Oleh.Dyvak.RobotChallenge\Oleh.Dyvak.RobotChallenge\bin\Debug\Oleh.Dyvak.RobotChallenge.pdb
+E:\Study\5_semester\Software Construction\RobotChallenge\Oleh.Dyvak.RobotChallenge\Oleh.Dyvak.RobotChallenge\bin\Debug\Robot.Common.dll
+E:\Study\5_semester\Software Construction\RobotChallenge\Oleh.Dyvak.RobotChallenge\Oleh.Dyvak.RobotChallenge\obj\Debug\Oleh.Dyvak.RobotChallenge.dll
+E:\Study\5_semester\Software Construction\RobotChallenge\Oleh.Dyvak.RobotChallenge\Oleh.Dyvak.RobotChallenge\obj\Debug\Oleh.Dyvak.RobotChallenge.pdb
